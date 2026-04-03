@@ -26,18 +26,11 @@ npm start
 | Page | URL |
 |------|-----|
 | Site public | http://localhost:3000 |
-| Espace Admin | http://localhost:3000/admin |
+
 
 ---
 
-## 🔐 Connexion Admin par défaut
 
-| Champ | Valeur |
-|-------|--------|
-| Identifiant | `admin` |
-| Mot de passe | `Admin2024` |
-
-> ⚠️ **Important** : Changez ce mot de passe dès la première connexion via Comptes Admin → Modifier.
 
 ---
 
